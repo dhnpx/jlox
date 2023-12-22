@@ -1,0 +1,7 @@
+/home/dhnpx/personal/jlox/src/main/java/com/craftinginterpreters/lox/Token.java
+/home/dhnpx/personal/jlox/src/main/java/com/craftinginterpreters/lox/AstPrinter.java
+/home/dhnpx/personal/jlox/src/main/java/com/craftinginterpreters/lox/Lox.java
+/home/dhnpx/personal/jlox/src/main/java/com/craftinginterpreters/lox/TokenType.java
+/home/dhnpx/personal/jlox/src/main/java/com/craftinginterpreters/lox/Scanner.java
+/home/dhnpx/personal/jlox/src/main/java/com/craftinginterpreters/tool/GenerateAst.java
+/home/dhnpx/personal/jlox/src/main/java/com/craftinginterpreters/lox/Expr.java
