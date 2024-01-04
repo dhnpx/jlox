@@ -8,4 +8,5 @@
 /home/dhnpx/personal/jlox/src/main/java/com/craftinginterpreters/lox/RuntimeError.java
 /home/dhnpx/personal/jlox/src/main/java/com/craftinginterpreters/tool/GenerateAst.java
 /home/dhnpx/personal/jlox/src/main/java/com/craftinginterpreters/lox/Expr.java
+/home/dhnpx/personal/jlox/src/main/java/com/craftinginterpreters/lox/Environment.java
 /home/dhnpx/personal/jlox/src/main/java/com/craftinginterpreters/lox/Interpreter.java
